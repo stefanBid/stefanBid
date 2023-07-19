@@ -1,5 +1,5 @@
 ### Hi there I'm Stefano Biddau👋 
-- 🎓 I'm computer science graduate at [University of Study of Salerno UNISA] (https://www.unisa.it)
+- 🎓 I'm computer science graduate at [University of Study of Salerno UNISA](https://www.unisa.it)
 - 🔭 I’m currently working on Frontend Development
 - 🌱 I’m currently learning VueJs, Angular
 - 👯 I’m looking to collaborate on Frontend Development
