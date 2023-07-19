@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi there I'm Stefano Biddau👋 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=stefanBid&count_private=true&count_private=true&show_icons=true" alt="Personal Stats">
+<br>
+<br>
 
-<!--
-**stefanBid/stefanBid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm computer science graduate at [University of Study of Salerno UNISA] (https://www.unisa.it)
+- 🔭 I’m currently working on Frontend Development
+- 🌱 I’m currently learning VueJs, Angular
+- 👯 I’m looking to collaborate on Frontend Development
+- 💬 Ask me about code
+- 📫 How to reach me: biddau.stefano99@gmail.com
