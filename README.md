@@ -9,11 +9,11 @@
 - 💬 Ask me about code
 - 📫 How to reach me: biddau.stefano99@gmail.com
 
-![image](https://github-profile-trophy.vercel.app/?username=stefanBid&theme=tokyonight)
+![image](https://github-readme-streak-stats.herokuapp.com/?user=stefanBid&theme=tokyonight)
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanBid&theme=tokyonight)
 
-![image](https://github-readme-streak-stats.herokuapp.com/?user=stefanBid&theme=tokyonight)
+![image](https://github-profile-trophy.vercel.app/?username=stefanBid&theme=tokyonight)
 
 
 
